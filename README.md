@@ -92,9 +92,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Firman47/Firman47/output/snake.svg" alt="Snake animation" />
 </div>
-
-<br />
-
-<p align="center">
-  ✨ <i>Built with ❤️ by Firman. Let's build something amazing together!</i>
-</p>
