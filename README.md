@@ -79,24 +79,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firman47&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firman47&layout=compact&theme=dracula&langs_count=8" height="150" />
-</div>
-
-<hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
-
-<h3 align="center">🔥 Streaks & Contributions</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Firman47&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
-
-<hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
-
-<h3 align="center">📰 Latest Medium Articles</h3>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Firman47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firman47&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
