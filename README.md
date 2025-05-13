@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Firman47/Firman47/main/media/image/Frieren.png" height="250" alt="Firman Banner" />
 </div>
 
-<br />
-
 <div align="center">
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" />
@@ -15,8 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
-
-<br />
 
 <h1 align="center">Hey there! I'm Firman 👋</h1>
 
