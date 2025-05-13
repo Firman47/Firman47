@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/Firman47/Firman47/main/media/image/Frieren.png" height="250" alt="Firman Banner" />
 </div>
 
-🟣🟣🟣🟣🟣
+<div align="center">
+  <img src="https://via.placeholder.com/1000x1/444444/444444?text=" style="margin: 20px 0;" />
+</div>
 
 <div align="center">
   <a href="https://discord.com" target="_blank">
