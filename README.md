@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Firman47/Firman47/main/media/image/Frieren.png" height="250" alt="Firman Banner" />
 </div>
 
-<hr style="height:1px;border:none;background-color:#444;margin:24px 0;" />
-
 <div align="center">
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" />
@@ -16,8 +14,6 @@
   </a>
 </div>
 
-<hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
-
 <h1 align="center">Hey there! I'm Firman 👋</h1>
 
 <p align="center">
@@ -25,8 +21,6 @@
   💻 Specialized in building modern, scalable web apps with JavaScript, Vue, React, Node.js, and Java Quarkus. <br>
   🔥 Code. Sleep. Debug. Repeat.
 </p>
-
-<hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -74,8 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -83,15 +75,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Firman47&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
-
 <h3 align="center">🐍 Snake Game</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Firman47/Firman47/output/snake.svg" alt="Snake animation" />
 </div>
-
-<hr style="height:1px;border:none;background-color:#444;margin:20px 0;" />
 
 <p align="center">
   ✨ <i>Built with ❤️ by Firman. Let's build something amazing together!</i>
