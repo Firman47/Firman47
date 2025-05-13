@@ -20,12 +20,8 @@
 
 <h1 align="center">Hey there! I'm Firman 👋</h1>
 
-<<<<<<< HEAD
 <h3 align="center">💬 About Me</h3>
 
-=======
-<h3 align="center">📌 About Me</h3>
->>>>>>> ba53faab4bbb1700f9e91e233ffd49641ef9ca10
 <p align="center">
   🚀 Fullstack Web Developer from Sumedang, Indonesia. <br />
   💻 Specialized in building modern, scalable web apps with JavaScript, Vue, React, Node.js, and Java Quarkus. <br />
