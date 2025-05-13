@@ -22,19 +22,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm **Firman** from Sumedang, Indonesia. I build modern web apps using JavaScript, Vue, React, Node.js, and Java Quarkus.</p>
+<p align="center">I'm **Firman** from Sumedang, Indonesia. I build modern web apps using JavaScript, Vue, React, Node.js, and Java Quarkus.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
