@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://firmanrf.vercel.app/home" target="_blank">
-    🔥 Visit My Portfolio Website
+     Visit My Portfolio Website
   </a>
 </p>
 
