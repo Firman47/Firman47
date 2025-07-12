@@ -29,7 +29,7 @@
 <h3 align="center">🔗 My Portfolio</h3>
 
 <p align="center">
-  <a href="https://firman47.vercel.app" target="_blank">
+  <a href="https://firmanrf.vercel.app/home" target="_blank">
     🔥 Visit My Portfolio Website
   </a>
 </p>
